@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @mahum-azam
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @mahum-azam.
